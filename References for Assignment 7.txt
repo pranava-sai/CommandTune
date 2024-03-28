@@ -1,0 +1,24 @@
+References :
+
+1. using mixer from pygame to play the music from : https://stackoverflow.com/questions/20021457/playing-mp3-song-on-python
+2. The songs used for this code are converted from mp4 to mp3 and then downloaded to the device.
+Main Source for Songs - Youtube
+Conversion & Download Source -  https://ytmp3.cc/befc9/
+
+Songs Main Source Link :
+
+1. Ed Sheeran, Shape of You, https://youtu.be/JGwWNGJdvx8
+2. Ed Sheeran, Beautiful People, https://youtu.be/mj0XInqZMHY
+3. Justin Bieber, STAY, https://youtu.be/kTJczUoc26U
+4. Justin Bieber, GHOST, https://youtu.be/be3hbNjjDaY
+5. Michael Jackson, Black or White, https://youtu.be/F2AitTPI5U0
+6. Michael Jackson, Billie Jean, https://youtu.be/Zi_XLOBDo_Y
+7. Taylor Swift, All Too Well, https://youtu.be/tollGa3S0o8
+8. Taylor Swift, The Joker and The Queen, https://youtu.be/2qzcHLyv3N0
+9. Lady Gaga, Shallow, https://youtu.be/cdh5oS92bHo
+10. Lady Gaga, Just Dance, https://youtu.be/2Abk1jAONjw
+11. Miley Cyrus, The Climb, https://youtu.be/NG2zyeVRcbs
+12. Miley Cyrus, Party in the U.S.A, https://youtu.be/M11SvDtPBhA
+13. Avicii, The Nights, https://youtu.be/zeSADaV46kw
+14. Luis Fonsi, Despacito, https://youtu.be/kJQP7kiw5Fk
+15. The Weeknd, Blinding Lights, https://youtu.be/4NRXx6U8ABQ
